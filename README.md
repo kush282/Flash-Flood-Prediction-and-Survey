@@ -23,7 +23,7 @@ Methodology
 
     Rainfall Classification:
         Classified rainfall data cumulatively to identify risky periods prone to flash floods.
-        Used statistical and machine learning techniques to group rainfall levels and assign risk labels.
+        Used statistical techniques to group rainfall levels and assign risk labels.
 
 Key Features of the Study
 
